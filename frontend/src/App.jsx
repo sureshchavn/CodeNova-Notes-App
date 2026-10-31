@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api/notes";
+const API_URL = "https://codenova-notes-app-qdpg.onrender.com/api/notes";
 
 const colors = ["yellow", "purple", "blue", "green", "pink"];
 
